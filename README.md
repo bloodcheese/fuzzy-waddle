@@ -1,5 +1,5 @@
 # fuzzy-waddle
-just a dump for various projects
+just a repo for various projects
 
 
 ## Project List
